@@ -11,6 +11,7 @@ We provide state of the art reliable staking services using our advanced node on
 Benefits include rewards and special lottery promotions which will be announced on our page.
 888terra.money
 
+[Stake with us](https://station.terra.money/validator/terravaloper1jvcr78cgwpvcsucf628fa8qjrahmcskqnhq5g8)
 ## Purpose
 Making staking on the terra blockchain more fun and rewarding
 
