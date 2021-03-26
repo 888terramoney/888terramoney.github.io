@@ -48,6 +48,4 @@ Have questions? You can reach us:
 - [Join our Telegram group to provide your comment](https://t.me/terra_money_chat)
 - [Join our Telegram news group to see the results and rules](https://t.me/terra_money_news)
 
-### Website
-888terra.money
-{validator.description.website}# 888terramoney.github.io
+
