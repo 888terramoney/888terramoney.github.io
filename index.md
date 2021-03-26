@@ -39,7 +39,7 @@ We have weekly drawing and prizes for stakers on our node
 - Each Luna Stake = 1 Lottery Ticket
 - Snapshot will be taken at a random day during the 7 day period as a best solution to guarantee 7 day participation.
 
-[Winner Selector Code](https://raw.githubusercontent.com/888terramoney/terra_money/main/888terramoney.py)
+[Winner Selector Code](https://github.com/888terramoney/terra_money)
 
 ## Contact Us
 
