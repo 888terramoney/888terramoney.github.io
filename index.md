@@ -7,11 +7,10 @@ Telegram: @validator888terramoney
 
 # <moniker>
 
-We provide state of the art reliable staking services using our advanced node on a secure network.
-Benefits include rewards and special lottery promotions which will be announced on our page.
-888terra.money
+It seems we are jailed for some reason eventhough we had 100% uptime. Please do not stake with us for the time being
 
-[Stake with us](https://station.terra.money/validator/terravaloper1jvcr78cgwpvcsucf628fa8qjrahmcskqnhq5g8)
+[Our validator](https://station.terra.money/validator/terravaloper1jvcr78cgwpvcsucf628fa8qjrahmcskqnhq5g8)
+
 ## Purpose
 Making staking on the terra blockchain more fun and rewarding
 
@@ -32,12 +31,7 @@ Our validator uses AWS stack with firewall and DDOS protection
 
 ## Lottery Process
 
-We have weekly drawing and prizes for stakers on our node
-
-- Recorded video of the drawings will be sent to the telegram and wechat group
-- 8.88% Commission, half of the commission will be given on lottery system to one wallet address each month based on staking for 7 days. 
-- Each Luna Stake = 1 Lottery Ticket
-- Snapshot will be taken at a random day during the 7 day period as a best solution to guarantee 7 day participation.
+It seems we are jailed for some reason eventhough we had 100% uptime. Please do not stake with us for the time being
 
 [Winner Selector Code](https://github.com/888terramoney/terra_money)
 
@@ -48,5 +42,3 @@ Have questions? You can reach us:
 - Telegram: @validator888terramoney
 - [Join our Telegram group to provide your comment](https://t.me/terra_money_chat)
 - [Join our Telegram news group to see the results and rules](https://t.me/terra_money_news)
-
-
