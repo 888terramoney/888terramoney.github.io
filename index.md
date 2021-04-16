@@ -41,6 +41,14 @@ We have weekly drawing and prizes for stakers on our node
 
 [Winner Selector Code](https://github.com/888terramoney/terra_money)
 
+## Winners
+Week 04/09-04/16
+```
+terra1yjsn4gflvnyyg3yr3d888fws7tzgt2xm98y2r2
+```
+
+## Payments
+Will be done at end of month to save fees per claiming
 ## Contact Us
 
 Have questions? You can reach us:
