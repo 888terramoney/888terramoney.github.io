@@ -45,11 +45,12 @@ We have weekly drawing and prizes for stakers on our node
 Week 04/09-04/16
 ```
 terra1yjsn4gflvnyyg3yr3d888fws7tzgt2xm98y2r2
-half commission = 0.002391 Luna
+half commission = 0.0002735 Luna
 ```
 Week 04/16-04/23
 ```
 terra1u2a8lrfjm9p29te53f4h4qk7dltlh4zeqyeaye
+half commission = 0.0002735 Luna
 ```
 ## Payments
 Will be done at end of month to save fees per claiming
